@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Investozord</title>
+    <link>//localhost:1313/tags/about/</link>
+    <description>Recent content in About on Investozord</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Apr 2025 13:46:26 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Fri, 18 Apr 2025 13:46:26 +0200</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;so-who-am-i&#34;&gt;So who am i&lt;/h2&gt;&#xA;&lt;p&gt;ciao ciao ciao&lt;/p&gt;&#xA;&lt;h2 id=&#34;so-why-am-i-here&#34;&gt;So why am i here&lt;/h2&gt;&#xA;&lt;p&gt;bla bla bla&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
