@@ -1,7 +1,15 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'Investozord'
-theme = "mainroad"
+
+theme = 'mainroad'
+# url = 'www.investozord.com'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+    
 
 [services.disqus]
   shortname = "" # Enable Disqus by entering your Disqus shortname
